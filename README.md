@@ -2,6 +2,20 @@
 
 Aplicação full stack de autenticação de usuários, desenvolvida com Java e Spring Boot no backend e Angular com TypeScript no frontend.
 
+## Screenshots
+
+### Tela de login
+
+<img src="images/login.png" alt="Tela de login" width="700">
+
+### Tela de cadastro
+
+<img src="images/cadastro.png" alt="Tela de cadastro" width="700">
+
+### Login inválido
+
+<img src="images/login-inválido.png" alt="Tela inicial após o login" width="700">
+
 ## Tecnologias utilizadas
 
 ### Backend
@@ -31,6 +45,11 @@ Aplicação full stack de autenticação de usuários, desenvolvida com Java e S
 
 ```text
 LOGIN-PAGE/
+├── docs/
+│   └── images/
+│       ├── login.png
+│       ├── cadastro.png
+│       └── home.png
 ├── LOGIN-PAGE-FRONT/
 └── LOGIN-PAGE-BACK/
 ```
