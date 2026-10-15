@@ -6,15 +6,15 @@ Aplicação full stack de autenticação de usuários, desenvolvida com Java e S
 
 ### Tela de login
 
-<img src="images/login.png" alt="Tela de login" width="700">
+<img src="imagens/login.png" alt="Tela de login" width="700">
 
 ### Tela de cadastro
 
-<img src="images/cadastro.png" alt="Tela de cadastro" width="700">
+<img src="imagens/cadastro.png" alt="Tela de cadastro" width="700">
 
 ### Login inválido
 
-<img src="images/login-inválido.png" alt="Tela inicial após o login" width="700">
+<img src="imagens/login-inválido.png" alt="Tela inicial após o login" width="700">
 
 ## Tecnologias utilizadas
 
