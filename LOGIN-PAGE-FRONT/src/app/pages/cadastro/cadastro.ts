@@ -36,7 +36,7 @@ export class Cadastro {
   }
   submit(){
     this.loginService.cadastro(this.cadastroForm.value.nome, this.cadastroForm.value.email, this.cadastroForm.value.senha).subscribe({
-      next: () => toast.success('Login realizado com sucesso!'),
+      next: () => toast.success('Cadastro realizado com sucesso!'),
       error: () => toast.error('Email ou senha inválidos')
     });
   }
